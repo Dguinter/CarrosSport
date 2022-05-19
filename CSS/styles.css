@@ -11,7 +11,7 @@
 }
 
 :root {
-    --red: #FF0000;
+    --red: 	#FF6347;
     --blue: #0000FF;
     --LightSlateGray: #778899;
 }
@@ -258,7 +258,7 @@ button:hover {
 
 /* About */
 .about {
-    width: 100;
+    width: 10;
     height: 100;
     display: flex;
     align-items: center;
@@ -401,7 +401,7 @@ button:hover {
         margin-bottom: 10px;
     }
 
-    .footer-links h6 {
+    .footer-links {
         margin-bottom: 8px;
     }
 
